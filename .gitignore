@@ -1,0 +1,17 @@
+/archive.zip
+/Dataset
+/Tomato-Leaf-Disease-6
+/runs
+/PD-2-8
+/yolov8final/PD-2-8
+/yolov8_v2-final
+/yolov8final
+/trained_yolov8
+/Sugarcane Leaf Disease Dataset Split
+/Sugarcane Leaf Disease Split No Background
+/GoogleNet H5
+*.h5
+/logs
+/..logs
+
+
