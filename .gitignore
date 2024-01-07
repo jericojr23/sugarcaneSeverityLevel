@@ -13,5 +13,6 @@
 *.h5
 /logs
 /..logs
+/my_dir
 
 
