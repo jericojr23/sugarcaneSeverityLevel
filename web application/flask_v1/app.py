@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # Load your GoogLeNet model from a .h5 file
 model = load_model(
-    r"D:\New_Fourth_Year\projectDesignGit\sugarcaneSeverityLevel\model\GoogleNet H5\GoogleNet-modelv1-2024-01-06-22-44-14.h5"
+    r"D:\New_Fourth_Year\projectDesignGit\sugarcaneSeverityLevel\model\DenseNet\DenseNet-2024-01-07-14-37-25.h5"
 )
 
 # Class labels
@@ -40,4 +40,4 @@ def predict():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5001, debug=True)
