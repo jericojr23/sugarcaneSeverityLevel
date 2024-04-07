@@ -1,0 +1,7 @@
+*.pth
+/saved_models
+/yolov5
+/dataset
+/method2
+/DJI_202402201210_010_manual_jpg
+/__pycache__
